@@ -1,2 +1,3 @@
-# tugasJavascript2
-tugas ke 2 minggu 2
+# javascriptTask
+Task  2 week 2
+about function, method, callbackFunction
